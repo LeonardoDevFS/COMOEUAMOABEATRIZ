@@ -320,4 +320,4 @@ document.addEventListener('DOMContentLoaded', function() {
 
     console.log("Página romântica (JS Completo com Contagem) carregada!");
 
-}); // Fim do addEventListener DOMContentLoaded
+}); // Fim do addEventListener DOMContentLoaded E te amo minha neném
